@@ -1,0 +1,35 @@
+{
+  "tickets": [
+    {
+      "id": "TKT-0001",
+      "name": "Balkrushna Naik",
+      "email": "balkrushnanaik07@gmail.com",
+      "description": "Internet is not working",
+      "category": "Network",
+      "priority": "High",
+      "solution": "Troubleshooting network issues:\n  1. Restart your router/modem (unplug 30 sec).\n  2. Forget and reconnect to the Wi-Fi network.\n  3. Check VPN status \u2014 disconnect and reconnect.\n  4. Run: ipconfig /release && ipconfig /renew (Windows).\n  5. If persistent, escalate to the Network team with your IP address.",
+      "eta": "15\u201360 minutes",
+      "confidence": 39.9,
+      "status": "Open",
+      "created_at": "2026-04-16T16:12:21",
+      "updated_at": "2026-04-16T16:12:21",
+      "comments": []
+    },
+    {
+      "id": "TKT-0002",
+      "name": "Kenisha Mehta",
+      "email": "kenisha@gmail.com",
+      "description": "file deleted",
+      "category": "Data Management",
+      "priority": "Critical",
+      "solution": "Data backup and recovery:\n  1. Check Recycle Bin / Trash first.\n  2. Search OneDrive/SharePoint version history.\n  3. Contact IT immediately \u2014 do NOT write new data to the drive.\n  4. IT will attempt shadow-copy restore (up to 30 days back).\n  5. For critical data loss, a forensic recovery may be initiated.",
+      "eta": "1\u20135 business days",
+      "confidence": 99.0,
+      "status": "Open",
+      "created_at": "2026-04-16T16:43:29",
+      "updated_at": "2026-04-16T16:43:29",
+      "comments": []
+    }
+  ],
+  "next_id": 3
+}
